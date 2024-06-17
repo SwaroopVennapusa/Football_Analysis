@@ -14,3 +14,7 @@ To run this project, you need to have the following requirements installed:
   - NumPy
   - Matplotlib
   - Pandas
+
+## Sample Output
+
+![sample_output](https://github.com/SwaroopVennapusa/Football_Analysis/assets/126584953/de5fa9b1-abbd-4a42-ae61-5712b8edde7a)
