@@ -7,11 +7,10 @@ This project utilizes YOLO for real-time detection and tracking of players, refe
 ## Requirements
 
 To run this project, you need to have the following requirements installed:
-
-    - Python 3.x
-    - ultralytics
-    - supervision
-    - OpenCV
-    - NumPy
-    - Matplotlib
-    - Pandas
+  - Python 3.x
+  - ultralytics
+  - supervision
+  - OpenCV
+  - NumPy
+  - Matplotlib
+  - Pandas
